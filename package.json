@@ -1,0 +1,38 @@
+{
+  "name": "authen",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geforcexfx/authen.git"
+  },
+  "keywords": [
+    "authen"
+  ],
+  "author": "cody",
+  "license": "ISC",
+  "dependencies": {
+   "bcryptjs": "*",
+   "body-parser": "*",
+   "connect-flash": "*",
+   "cookie-parser": "^1.4.1",
+   "express": "*",
+   "express-handlebars": "*",
+   "express-messages": "*",
+   "express-session": "*",
+   "express-validator": "*",
+   "mongodb": "*",
+   "mongoose": "*",
+   "passport": "*",
+   "passport-http": "*",
+   "passport-local": "*"
+ },
+  "bugs": {
+    "url": "https://github.com/geforcexfx/authen/issues"
+  },
+  "homepage": "https://github.com/geforcexfx/authen#readme"
+}
